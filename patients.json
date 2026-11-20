@@ -1,0 +1,123 @@
+{
+    "P001": {
+        "name": "Ananya Sharma",
+        "city": "Guwahati",
+        "age": 28,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 90.0,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Ravi Mehta",
+        "city": "Mumbai",
+        "age": 35,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 85,
+        "bmi": 27.76,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Sneha Kulkarni",
+        "city": "Pune",
+        "age": 22,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "P004": {
+        "name": "krishna",
+        "city": "Bangalore",
+        "age": 40,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 400.0,
+        "bmi": 29.32,
+        "verdict": "Overweight",
+        "id": "P004"
+    },
+    "P005": {
+        "name": "Neha Sinha",
+        "city": "Kolkata",
+        "age": 30,
+        "gender": "female",
+        "height": 1.55,
+        "weight": 75,
+        "bmi": 31.22,
+        "verdict": "Obese"
+    },
+    "P006": {
+        "name": "Karan Patel",
+        "city": "Ahmedabad",
+        "age": 26,
+        "gender": "male",
+        "height": 1.72,
+        "weight": 68,
+        "bmi": 22.99,
+        "verdict": "Normal"
+    },
+    "P007": {
+        "name": "Priya Reddy",
+        "city": "Hyderabad",
+        "age": 24,
+        "gender": "female",
+        "height": 1.62,
+        "weight": 52,
+        "bmi": 19.81,
+        "verdict": "Normal"
+    },
+    "P008": {
+        "name": "Rahul Das",
+        "city": "Bhubaneswar",
+        "age": 32,
+        "gender": "male",
+        "height": 1.78,
+        "weight": 110,
+        "bmi": 34.72,
+        "verdict": "Obese"
+    },
+    "P009": {
+        "name": "Meera Nair",
+        "city": "Chennai",
+        "age": 29,
+        "gender": "female",
+        "height": 1.68,
+        "weight": 60,
+        "bmi": 21.26,
+        "verdict": "Normal"
+    },
+    "P010": {
+        "name": "Vikram Singh",
+        "city": "Jaipur",
+        "age": 45,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 78,
+        "bmi": 26.99,
+        "verdict": "Overweight"
+    },
+    "string": {
+        "name": "string",
+        "city": "string",
+        "age": 1,
+        "gender": "male",
+        "height": 1.0,
+        "weight": 1.0,
+        "bmi": 1.0,
+        "verdict": "underweight"
+    },
+    "P0024": {
+        "name": "rahul",
+        "city": "chennai",
+        "age": 32,
+        "gender": "male",
+        "height": 5.9,
+        "weight": 24.0,
+        "bmi": 0.69,
+        "verdict": "underweight"
+    }
+}
